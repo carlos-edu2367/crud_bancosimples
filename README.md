@@ -13,7 +13,6 @@ Antes de rodar o projeto, certifique-se de ter o Python 3.x instalado em sua má
 
 Além disso, você precisa garantir que as bibliotecas necessárias estão instaladas. Caso não tenha o tkinter ou sqlite3, instale utilizando o seguinte comando:
 
-bash
 pip install tk sqlite3
 
 # Passo a Passo para Executar
@@ -27,7 +26,6 @@ O código principal está no arquivo main.py, e o arquivo que contém as funçõ
 
 Navegue até o diretório do projeto no terminal e execute o seguinte comando:
 
-bash
 python main.py
 
 # Primeiros Passos no Sistema
