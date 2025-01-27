@@ -9,7 +9,7 @@ Python: Linguagem de programação principal utilizada no projeto.
 
 # Como Rodar o Projeto
 Pré-requisitos
-Antes de rodar o projeto, certifique-se de ter o Python 3.x instalado em sua máquina. Você pode baixar o Python no site oficial.
+Antes de rodar o projeto, certifique-se de ter o Python instalado em sua máquina. Você pode baixar o Python no site oficial.
 
 Além disso, você precisa garantir que as bibliotecas necessárias estão instaladas. Caso não tenha o tkinter ou sqlite3, instale utilizando o seguinte comando:
 
