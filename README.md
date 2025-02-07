@@ -16,9 +16,8 @@ Além disso, você precisa garantir que as bibliotecas necessárias estão insta
 pip install tk sqlite3
 
 # Passo a Passo para Executar
-Baixe o código fonte
+Baixe o arquivo: https://drive.google.com/file/d/1VZcZzm9XqnPJFqDORdpoUvwCGWFpP5jE/view?usp=drivesdk
 
-Faça o download ou clone este repositório para sua máquina. 
 O código principal está no arquivo main.py, e o arquivo que contém as funções de lógica é o funcoesLogic.py.
 
 
